@@ -1,0 +1,22 @@
+html 
+{
+    max-width: 100%;
+    overflow-x: hidden;
+    margin: 0px;
+    padding: 0px;
+}
+
+#head:hover
+{
+    color: red;
+}
+
+.wow
+{
+    border: 0.01px solid rgb(78, 78, 78);
+}
+
+
+img {
+    float: left;
+  }
