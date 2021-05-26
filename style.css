@@ -20,3 +20,15 @@ html
 img {
     float: left;
   }
+
+  nav{
+      display: flex;
+  }
+
+  .line1
+{
+    border: 0.01px solid rgba(165, 160, 160, 0.815);
+   margin-left: 80px;
+   margin-right: 80px;
+   margin-top: 30px;
+}
